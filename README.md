@@ -1,0 +1,4 @@
+# tired_and_dangerous_driving_detection
+该项目是一款检测司机驾驶状态并给出提示的辅助驾驶软件
+调用dlib库的人脸特征点提取方法结合自研发算法实现人脸疲劳检测，采用迁移学习方式，通过将xception,inception,
+restnet50等模型fine-tune并融合实现危险驾驶判断
