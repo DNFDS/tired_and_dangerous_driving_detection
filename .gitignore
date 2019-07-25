@@ -1,0 +1,11 @@
+*.bak
+.idea/
+.ipynb_checkpoints/
+models/
+save_images/
+data/
+csv/
+~$*
+~*
+
+logs/
